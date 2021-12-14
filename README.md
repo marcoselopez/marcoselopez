@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos!</h1>
 <h3 align="center">An enthusiastic frontend developer from Argentina!</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS and MongoDB**
+- 🌱 I’m currently learning **Angular** and **Typescript**
 
-- 📫 How to reach me **emmanuel.m.lopez@gmail.com**
+- 📫 How to reach me: **emmanuel.m.lopez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
