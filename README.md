@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Rolling Daily](https://github.com/patoogm/daily-front)
 
-- 🌱 I’m currently learning: **Angular, TypeScript and Ruby**
+- 🌱 I’m currently learning: **Java and Spring**
 
 - 📫 How to reach me: **emmanuel.m.lopez@gmail.com**
 
