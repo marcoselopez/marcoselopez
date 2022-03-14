@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos!</h1>
 <h3 align="center">An enthusiastic Frontend developer from Argentina!</h3>
 
-- 🔭 I’m currently working on: [Rolling Daily](https://github.com/patoogm/daily-front)
+- 🔭 I’m currently working on: Further developing my Frontend Skills!
 
-- 🌱 I’m currently learning: **Java and Spring**
+- 🌱 I’m currently learning: Advanced React and also Typescript and Angular
 
 - 📫 How to reach me: **emmanuel.m.lopez@gmail.com**
 
